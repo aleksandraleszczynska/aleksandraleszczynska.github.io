@@ -1,0 +1,39 @@
+#tytul
+
+{
+    font-size: x-large;
+    color: darkcyan;
+    
+
+}
+
+#kompetencje
+{
+    color:darkred;
+    
+}
+
+#oczekiwania
+{
+    color:darkred;
+
+}
+
+#plany
+{
+    color:darkred;
+
+}
+
+body
+
+{
+    background-color:rgb(207, 236, 232);    
+
+} 
+
+#image
+{
+  margin-right:100px;
+
+}
